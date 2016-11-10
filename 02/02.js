@@ -1,14 +1,19 @@
-function plus(){
+function plus(numberA, numberB){
+    return numberA + numberB;
 }
 
-function minus(){
+function minus(numberA, numberB){
+    return numberA - numberB;
 }
 
-function times(){
+function times(numberA, numberB){
+    return numberA * numberB;
 }
 
-function div(){
+function div(numberA, numberB){
+    return numberA / numberB;
 }
 
-function mod(){  
+function mod(numberA, numberB){
+    return numberA % numberB;  
 }
